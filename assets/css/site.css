@@ -51,7 +51,7 @@ pre {
   padding: 1%;
   border-radius: 2px;
   border: 2px solid rgb(66, 57, 75);
-	line-height: 1.4;
+  line-height: 1.4;
 }
 
 code {
@@ -60,12 +60,11 @@ code {
   padding: 3px;
   padding-right: 3px;
   border: 2px solid rgb(221, 222, 219);
-
 }
 
 code::before {
-	content: '$ ';
-	color: rgb(75, 235, 120);
+  content: '$ ';
+  color: rgb(75, 235, 120);
 }
 
 h3 {
@@ -74,10 +73,11 @@ h3 {
 
 strong {
   text-decoration: underline;
-  color: rgb(219, 90, 72);
+  color: rgb(128, 99, 172);
+  ;
 }
 
 span {
-  color: rgb(219, 90, 72);
+  color: rgb(128, 99, 172);
   background-color: rgb(245, 245, 245);
 }
